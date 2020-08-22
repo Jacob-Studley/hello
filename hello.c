@@ -9,8 +9,11 @@
 #include <stdio.h>
 
 int main(int argc, char **argv) {
-    
+
     printf("Jacob Studley!\n");
+    printf("Madison List\n");
+    Printf("Undeclared\n");
     
     return 0;
+    
 }
